@@ -14,12 +14,6 @@ I'm an **Artificial Intelligence student** at the **University of Vigo (Uvigo)**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marinaacastroo&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marinaacastroo)
-
-
-
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/marina-castro-novo-ab5370358/)
 

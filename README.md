@@ -8,13 +8,13 @@ I'm an **Artificial Intelligence student** at the **University of Vigo (Uvigo)**
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marinaacastroo&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tu-usuario)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marinaacastroo)
 
 ## 💻 Languages and Tools I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaacastroo&layout=compact&hide_title=true)
 
 
 

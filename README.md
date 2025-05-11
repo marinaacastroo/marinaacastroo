@@ -1,0 +1,23 @@
+# Hi, I'm Marina 👋
+
+I'm an **Artificial Intelligence student** at the **University of Vigo (Uvigo)**, passionate about learning and exploring the world of AI, machine learning, and data science. 🚀
+
+## 🌱 Current Learning
+- I'm diving into **machine learning**, **deep learning**, and **data science**.
+- Working on projects that involve **AI**, **data analysis**, and **automation**.
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tu-usuario)
+
+## 💻 Languages and Tools I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_title=true)
+
+
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/marina-castro-novo-ab5370358/)
+

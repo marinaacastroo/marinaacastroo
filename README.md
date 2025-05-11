@@ -6,6 +6,10 @@ I'm an **Artificial Intelligence student** at the **University of Vigo (Uvigo)**
 - I'm diving into **machine learning**, **deep learning**, and **data science**.
 - Working on projects that involve **AI**, **data analysis**, and **automation**.
 
+
+## 💻 Languages and Tools I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaacastroo&layout=compact&hide_title=true)
+
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marinaacastroo&show_icons=true&hide_title=true&hide=prs&count_private=true)
@@ -13,8 +17,6 @@ I'm an **Artificial Intelligence student** at the **University of Vigo (Uvigo)**
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marinaacastroo)
 
-## 💻 Languages and Tools I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaacastroo&layout=compact&hide_title=true)
 
 
 
